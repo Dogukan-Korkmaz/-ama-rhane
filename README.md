@@ -1,2 +1,2 @@
 # -ama-rhane
-Çaamşırhane Similasyon Oyunu
+Çamşırhane Similasyon Oyunu
